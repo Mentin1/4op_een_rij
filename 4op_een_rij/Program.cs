@@ -10,6 +10,7 @@ namespace _4op_een_rij
     {
         static void Main(string[] args)
         {
+            // begin van 4 op een rij
         }
     }
 }
